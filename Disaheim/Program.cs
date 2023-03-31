@@ -1,4 +1,5 @@
-﻿namespace Disaheim
+﻿
+namespace Disaheim
 {
     internal class Program
     {

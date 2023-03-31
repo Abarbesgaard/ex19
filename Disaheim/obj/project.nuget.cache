@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "VR3yqzHzTFkUdsRVBb/9QKa+xXo+m3v3TmYka4DL6KGK1cFI4qQPh/qqE6c6D+Aidy9YquVW59iJBlhDdC6wew==",
+  "dgSpecHash": "OIbXCeJDvxAZqV1dfghJgC1M7CuxsLOpr6NrdC6GaMZXwCa6sSVgVtohNT1nIoeh8pPvk23Ey9P6gPPNwyPfgw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\45217\\Desktop\\Datamatiker\\ex17\\Disaheim\\Disaheim\\Disaheim.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\45217\\Desktop\\Datamatiker\\ex19\\Disaheim\\Disaheim\\Disaheim.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\45217\\.nuget\\packages\\nunit3testadapter\\4.4.2\\nunit3testadapter.4.4.2.nupkg.sha512"
+  ],
   "logs": []
 }

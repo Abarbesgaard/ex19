@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UtilityLib/1.0.0": {
+        "dependencies": {
+          "Disaheim": "1.0.0"
+        },
+        "runtime": {
+          "UtilityLib.dll": {}
+        }
+      },
+      "NUnit3TestAdapter/4.4.2": {},
+      "Disaheim/1.0.0": {
+        "dependencies": {
+          "NUnit3TestAdapter": "4.4.2"
+        },
+        "runtime": {
+          "Disaheim.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UtilityLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NUnit3TestAdapter/4.4.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vA/iHYcR+LYw+pRWQugckC/zW2fXHaqMr2uA82NOBt8v4YK4wMJrQ7QC8XLc7PjetEZ96cPbBTWsDDtmQiRZTA==",
+      "path": "nunit3testadapter/4.4.2",
+      "hashPath": "nunit3testadapter.4.4.2.nupkg.sha512"
+    },
+    "Disaheim/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nITRBM9iqXny1H4QGhqqT6MhTxrljStldYg8flb+upihyTIaVUhGkA/WFaKkWK0SI7Sl2KCtZl1ZHhibL4n6nw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\45217\\Desktop\\Datamatiker\\ex19\\Disaheim\\UtilityLib\\UtilityLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\45217\\.nuget\\packages\\nunit3testadapter\\4.4.2\\nunit3testadapter.4.4.2.nupkg.sha512"
+  ],
+  "logs": []
+}
